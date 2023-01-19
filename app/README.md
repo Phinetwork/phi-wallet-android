@@ -1,4 +1,4 @@
-# AlphaWallet - Ultimate Ethereum Wallet for Android
+# PHIWallet - Ultimate PHI Wallet for Android With Dapp Browser
 
 [![Build Status](https://travis-ci.com/James-Sangalli/alpha-wallet.svg?token=J2hT1s5bGKT1npuPugWb&branch=master)](https://travis-ci.com/James-Sangalli/alpha-wallet.svg?token=J2hT1s5bGKT1npuPugWb&branch=master)
 [![License](https://img.shields.io/badge/license-GPL3-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
