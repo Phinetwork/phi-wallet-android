@@ -1,27 +1,27 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/AlphaWallet/alpha-wallet-android)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/PHIWallet/PHI-wallet-android)
 
-# AlphaWallet - Advanced, Open Source Ethereum Mobile Wallet & dApp Browser for Android
+# PHIWallet - Advanced, Open Source PHI Mobile Wallet & dApp Browser for Android
 
-[![Lint](https://github.com/AlphaWallet/alpha-wallet-android/actions/workflows/lint.yml/badge.svg?branch=master)](https://github.com/AlphaWallet/alpha-wallet-android/actions/workflows/lint.yml)
-[![Unit test](https://github.com/AlphaWallet/alpha-wallet-android/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/AlphaWallet/alpha-wallet-android/actions/workflows/ci.yml)
-[![E2E Test](https://github.com/AlphaWallet/alpha-wallet-android/actions/workflows/e2e.yml/badge.svg?branch=master)](https://github.com/AlphaWallet/alpha-wallet-android/actions/workflows/e2e.yml)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg )](https://github.com/AlphaWallet/alpha-wallet-android/graphs/commit-activity)
-![GitHub contributors](https://img.shields.io/github/contributors/AlphaWallet/alpha-wallet-android.svg)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/AlphaWallet/alpha-wallet-android/blob/master/LICENSE)
-[![codecov](https://codecov.io/gh/AlphaWallet/alpha-wallet-android/branch/master/graph/badge.svg?token=IkoEb30CXq)](https://codecov.io/gh/AlphaWallet/alpha-wallet-android)
+[![Lint](https://github.com/PHIWallet/PHI-wallet-android/actions/workflows/lint.yml/badge.svg?branch=master)](https://github.com/PHIWallet/PHI-wallet-android/actions/workflows/lint.yml)
+[![Unit test](https://github.com/PHIWallet/PHI-wallet-android/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/PHIWallet/PHI-wallet-android/actions/workflows/ci.yml)
+[![E2E Test](https://github.com/PHIWallet/PHI-wallet-android/actions/workflows/e2e.yml/badge.svg?branch=master)](https://github.com/PHIWallet/PHI-wallet-android/actions/workflows/e2e.yml)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg )](https://github.com/PHIWallet/PHI-wallet-android/graphs/commit-activity)
+![GitHub contributors](https://img.shields.io/github/contributors/PHIWallet/PHI-wallet-android.svg)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PHIWallet/PHI-wallet-android/blob/master/LICENSE)
+[![codecov](https://codecov.io/gh/PHIWallet/PHI-wallet-android/branch/master/graph/badge.svg?token=IkoEb30CXq)](https://codecov.io/gh/PHIWallet/PHI-wallet-android)
 
-AlphaWallet is an open source programmable blockchain apps platform. It's compatible with tokenisation framework TokenScript, offering businesses and their users in-depth token interaction, a clean white label user experience and advanced security options. Supports all Ethereum based networks.
+PHIWallet is an open source programmable blockchain apps platform. It's compatible with tokenisation framework TokenScript, offering businesses and their users in-depth token interaction, a clean white label user experience and advanced security options. Supports all PHI based networks.
 
-AlphaWallet and TokenScript have been used by tokenisation projects like FIFA and UEFA’s [blockchain tickets](https://apps.apple.com/au/app/shankai/id1492559481), Bartercard’s [Qoin ecommerce ecosystem](https://apps.apple.com/au/app/qoin-wallet/id1483718254), several Automobiles’ [car ownership portal](https://github.com/AlphaWallet/TokenScript-Examples/tree/master/examples/Karma) and many more.
+PHIWallet and TokenScript have been used by tokenisation projects like FIFA and UEFA’s [blockchain tickets](https://apps.apple.com/au/app/shankai/id1492559481), Bartercard’s [Qoin ecommerce ecosystem](https://apps.apple.com/au/app/qoin-wallet/id1483718254), several Automobiles’ [car ownership portal](https://github.com/PHIWallet/TokenScript-Examples/tree/master/examples/Karma) and many more.
 
 ⭐ Star us on GitHub — it helps!
 
-[![alphawallet open source wallet android preview](dmz/src/main/resources/static/readme/alphawallet-open-source-ethereum-wallet.jpg)](https://alphawallet.com/)
-<a href='https://play.google.com/store/apps/details?id=io.stormbird.wallet&hl=en&utm_source=github-readme&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get AlphaWallet Open Source Wallet on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="100"/></a>
+[![PHIwallet open source wallet android preview](dmz/src/main/resources/static/readme/PHIwallet-open-source-PHI-wallet.jpg)](https://PHIwallet.com/)
+<a href='https://play.google.com/store/apps/details?id=io.stormbird.wallet&hl=en&utm_source=github-readme&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get PHIWallet Open Source Wallet on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="100"/></a>
 
-## About AlphaWallet - Features
+## About PHIWallet - Features
 
-Easy to use and secure open source Ethereum wallet for Android and iOS, with native ERC20, ERC721, ERC1155 and ERC875 support. AlphaWallet supports all Ethereum based networks: Ethereum, xDai, Ethereum Classic, Artis, POA, Binance Smart Chain, Heco, Polygon, Avalanche, Fantom, L2 chains Optimistic and Arbitrum, and Palm.
+Easy to use and secure open source PHI wallet for Android and iOS, with native ERC20, ERC721, ERC1155 and ERC875 support. PHIWallet supports all PHI based networks: PHI, xDai, PHI Classic, Artis, POA, Binance Smart Chain, Heco, Polygon, Avalanche, Fantom, L2 chains Optimistic and Arbitrum, and Palm.
 TestChains: Ropsten, Goerli, Kovan, Rinkeby, Sokol, Binance Test, Heco Test, Fuji (Avalanche test), Fantom Test, Polygon Test, Optimistic and Arbitrum Test, Cronos Test and Palm test.
 
 - Beginner Friendly
